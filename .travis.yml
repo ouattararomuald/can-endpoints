@@ -10,7 +10,7 @@ before_script:
   - wget https://storage.googleapis.com/appengine-sdks/featured/google_appengine_1.9.23.zip -nv
   - unzip google_appengine_1.9.23.zip
   #- export PYTHONPATH=${PYTHONPATH}:google_appengine
-  - export PATH=$PATH:/path/to/google_appengine/
+  - export PATH=$PATH:google_appengine
 
 # command to install dependencies
 install:
