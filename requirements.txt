@@ -1,4 +1,4 @@
 endpoints
 feedparser
 protobuf
-appengine
+googleappengine
