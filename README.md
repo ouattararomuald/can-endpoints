@@ -25,7 +25,7 @@ See the README file for directions. You'll need Python 2.7 installed too.
    cd can-endpoints
    dev_appserver.py .
    ```
-4. Test your Endpoints by visiting the Google APIs Explorer (by default [http://localhost:8080/_ah/api/explorer](http://localhost:8000/_ah/api/explorer))
+4. Test your Endpoints by visiting the Google APIs Explorer (by default [http://localhost:8080/_ah/api/explorer](http://localhost:8080/_ah/api/explorer))
 
 ## Deploy
 To deploy the application:
