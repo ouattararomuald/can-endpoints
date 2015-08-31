@@ -51,8 +51,8 @@ After you deploy, you can use the API Explorer to experiment with your API witho
 [3]: https://cloud.google.com/appengine/docs/python/endpoints/test_deploy
 [4]: https://cloud.google.com/appengine/docs/python/tools/uploadinganapp
 
-## Contributing changes
-See [CONTRIB.md](LICENSE)
+## Contributing
+Please see the [contributing guide](CONTRIB.md)
 
 ## Licence
 ```
